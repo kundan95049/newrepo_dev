@@ -33,9 +33,9 @@ public class AppTest
 		  assertEquals(actual,expected); 
 		  System.out.println("hiii");
 	  }
-	 
 	 @Test
 	 public void testWithMixedValue()
+
 	 {
 
 		 System.out.println("AppTest.testWithMixedValue()");
@@ -44,5 +44,11 @@ public class AppTest
 	     System.out.println("Hello world");
 	 }
 	 
+
+	 {
+		 System.out.println("AppTest.testWithMixedValue()");
+	     System.out.println("Hello"); 
+	 } 
+
 }
 

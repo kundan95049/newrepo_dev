@@ -1,5 +1,7 @@
 package com.nt.test;
 
+
+
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
@@ -31,5 +33,11 @@ public class AppTest
 		  assertEquals(actual,expected); 
 		  System.out.println("hiii");
 	  }
+	 @Test
+	 public void testWithMixedValue()
+	 {
+	
+	 }
+	 
 }
 

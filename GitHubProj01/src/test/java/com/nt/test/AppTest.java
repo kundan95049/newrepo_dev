@@ -32,5 +32,11 @@ public class AppTest
 		  int expected=ar.sum(10,-10);
 		  assertEquals(actual,expected); 
 	  }
+	 @Test
+	 public void testWithMixedValue()
+	 {
+	
+	 }
+	 
 }
 

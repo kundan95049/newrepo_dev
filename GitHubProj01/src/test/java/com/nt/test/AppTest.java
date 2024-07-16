@@ -36,7 +36,7 @@ public class AppTest
 	 @Test
 	 public void testWithMixedValue()
 	 {
-	
+		 System.out.println("AppTest.testWithMixedValue()");
 	 }
 	 
 }

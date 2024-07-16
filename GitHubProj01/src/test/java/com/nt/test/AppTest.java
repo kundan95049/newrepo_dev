@@ -29,6 +29,7 @@ public class AppTest
 		  int actual=0;
 		  int expected=ar.sum(10,-10);
 		  assertEquals(actual,expected); 
+		  System.out.println("hiii");
 	  }
 }
 

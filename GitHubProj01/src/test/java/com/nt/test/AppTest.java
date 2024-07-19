@@ -45,10 +45,5 @@ public class AppTest
 	 }
 	 
 
-	 {
-		 System.out.println("AppTest.testWithMixedValue()");
-	     System.out.println("Hello"); 
-	 } 
-
 }
 

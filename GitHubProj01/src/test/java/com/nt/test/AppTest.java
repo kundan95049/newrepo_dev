@@ -40,7 +40,7 @@ public class AppTest
 
 		 System.out.println("AppTest.testWithMixedValue()");
          
-	     System.out.println("Java is awesome");
+	     System.out.println("Java is  raja");
 	 }
 	 
 
